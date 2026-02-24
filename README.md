@@ -1,9 +1,12 @@
 # Daytick ✓
 
+https://daytick.vercel.app/
+
 A minimal daily task manager focused on simplicity. Tasks that aren't completed carry over to the next day — only tasks checked off today disappear from your list.
 
 ![Daytick Preview](https://img.shields.io/badge/status-live-brightgreen) ![Next.js](https://img.shields.io/badge/Next.js-15-black) ![Supabase](https://img.shields.io/badge/Supabase-database-green) ![Vercel](https://img.shields.io/badge/Vercel-deployed-black)
 
+🔗 **[https://daytick.vercel.app/](https://daytick.vercel.app/)**
 ---
 
 ## Features
