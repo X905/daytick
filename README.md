@@ -1,6 +1,6 @@
 # Daytick ✓
 
-https://daytick.vercel.app/
+
 
 A minimal daily task manager focused on simplicity. Tasks that aren't completed carry over to the next day — only tasks checked off today disappear from your list.
 
